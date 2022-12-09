@@ -1,0 +1,20 @@
+
+img{
+    width: 100%;
+}
+ footer{
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+  
+    
+
+  
+  footer{
+    padding-left: 10px;
+    padding-right: 10px;
+   
+  }
